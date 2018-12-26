@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="example suite 1" duration-ms="47" started-at="2018-12-26T06:47:53Z" finished-at="2018-12-26T06:47:53Z">
+    <groups>
+    </groups>
+    <test name="Regression suite 1" duration-ms="47" started-at="2018-12-26T06:47:53Z" finished-at="2018-12-26T06:47:53Z">
+      <class name="com.app.objectRepository.launchBrowserTest">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.app.objectRepository.launchBrowserTest@1808f31]" name="test" duration-ms="0" started-at="2018-12-26T06:47:53Z" finished-at="2018-12-26T06:47:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.app.objectRepository.launchBrowserTest -->
+    </test> <!-- Regression suite 1 -->
+  </suite> <!-- example suite 1 -->
+</testng-results>
